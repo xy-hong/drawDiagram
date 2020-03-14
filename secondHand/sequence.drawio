@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-14T12:56:22.786Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="F_j3hinro7Y3ipsNRaeS" version="12.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-14T13:30:17.749Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36" etag="jvFXpMohLNmpcxrFoBOd" version="12.8.4" type="github" pages="2">
   <diagram name="登录/注册" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="RdZf3HlQe67guQ5Lp9Ch-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="45" y="270" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RdZf3HlQe67guQ5Lp9Ch-14" value="保存id到数据库" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="RdZf3HlQe67guQ5Lp9Ch-13" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="RdZf3HlQe67guQ5Lp9Ch-14" value="保存/获取用户信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="RdZf3HlQe67guQ5Lp9Ch-13" parent="7baba1c4bc27f4b0-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="250" as="sourcePoint" />
             <Array as="points">
